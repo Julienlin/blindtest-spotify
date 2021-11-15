@@ -14,7 +14,7 @@ const App = () => {
       <header className={styles.appHeader}>
         <img src={logo} className={styles.appLogo} alt="logo" />
         <h1 className={styles.appTitle}>Bienvenue sur le Blindtest</h1>
-        <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
+        <p>Le text est modifié !</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
